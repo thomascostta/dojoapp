@@ -1,5 +1,5 @@
  <h1 align="center">
- KarateApp - Seu Dojô em suas mãos ⭐
+ KarateApp - Seu Dojô em suas mãos 📱
 </h1>
 
 ## :book: Overview 
@@ -7,9 +7,8 @@ Aplicativo em desenvolvimento utilizando React-Native, Typescript, Expo, Redux T
 
 ## 🚧: Status do projeto
 - [x] Interface do Aluno
-- [ ] Interface do ADM
+- [ ] Interface do ADM (em construção)
 - [ ] Conectar com Firebase
-- [ ] Publicar a princípio na PlayStore
 
 ### Apresentação 🌠
 
