@@ -5,6 +5,12 @@
 ## :book: Overview 
 Aplicativo em desenvolvimento utilizando React-Native, Typescript, Expo, Redux Toolkit e Context-Api para uma academia de artes marciais. Inicialmente, os usuários podem gerenciar suas mensalidades e realizar cadastros de forma intuitiva.
 
+## 🚧: Status do projeto
+- [x] Interface do Aluno
+- [ ] Interface do ADM
+- [ ] Conectar com Firebase
+- [ ] Publicar a princípio na PlayStore
+
 ### Apresentação 🌠
 
 https://github.com/thomascostta/dojoapp/assets/82541529/1f003eed-6a86-458d-b5cc-6e6e11b03565
