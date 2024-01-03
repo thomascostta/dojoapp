@@ -1,19 +1,34 @@
  <h1 align="center">
- KarateApp - Seu Dojô em suas mãos 📱
+ KarateApp - O Dojô em suas mãos 📱
 </h1>
 
 ## :book: Overview 
-Aplicativo em desenvolvimento utilizando React-Native, Typescript, Expo, Redux Toolkit e Context-Api para uma academia de artes marciais. Inicialmente, os usuários podem gerenciar suas mensalidades e realizar cadastros de forma intuitiva.
+Aplicativo em desenvolvimento utilizando React-Native, Typescript e Expo para uma academia de artes marciais. Inicialmente, os usuários podem gerenciar suas mensalidades e realizar cadastros de forma intuitiva.
 
 ## 🚧: Status do projeto
 - [x] Interface do Aluno
-- [ ] Interface do ADM (em construção)
+- [ ] Interface do ADM (em construção 🚧)
 - [ ] Conectar com Firebase
 
 ### Apresentação 🌠
 
 https://github.com/thomascostta/dojoapp/assets/82541529/1f003eed-6a86-458d-b5cc-6e6e11b03565
 
+## ✨ Tecnologias
+- [x] React-Native
+- [x] Typescript
+- [x] Expo
+- [x] Async-storage
+- [x] Redux toolkit
+- [x] ContextApi
+- [x] Axios
+- [x] Json-server
+- [x] React-native-keyboard-aware-scroll-view
+- [x] React-native-mask-input
+- [x] React-native-reanimated
+- [x] Styled-components
+- [x] Yup
+E outros...
 
 ### Dados para teste 📝
 - Código de verificação: 123456
